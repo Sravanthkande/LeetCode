@@ -16,4 +16,8 @@
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Sravanthkande/LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
