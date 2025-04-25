@@ -8,11 +8,13 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sravanthkande/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2915-count-of-interesting-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2915-count-of-interesting-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
