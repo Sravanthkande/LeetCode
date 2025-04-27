@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Sravanthkande/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sravanthkande/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sravanthkande/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
