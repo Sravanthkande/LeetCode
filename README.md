@@ -10,6 +10,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sravanthkande/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
