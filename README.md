@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
@@ -117,8 +118,10 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
