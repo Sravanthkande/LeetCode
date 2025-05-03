@@ -127,11 +127,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sravanthkande/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
