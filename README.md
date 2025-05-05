@@ -125,6 +125,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0806-domino-and-tromino-tiling](https://github.com/Sravanthkande/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
 ## Stack
 |  |
