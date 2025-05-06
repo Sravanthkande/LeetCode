@@ -22,6 +22,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sravanthkande/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sravanthkande/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2048-build-array-from-permutation](https://github.com/Sravanthkande/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sravanthkande/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sravanthkande/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -191,4 +192,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Sravanthkande/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
