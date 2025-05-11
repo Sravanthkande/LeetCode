@@ -4,7 +4,7 @@ class Solution:
         zero1 = zero2 = 0
 
         for i in nums1:
-            sum1 += i 
+            sum1 += i
             if i == 0:
                 sum1 += 1
                 zero1 += 1
@@ -17,4 +17,5 @@ class Solution:
             
         if (zero1 == 0 and sum2 > sum1) or (zero2 == 0 and sum1 > sum2):
             return -1
+        
         return max(sum1, sum2)
