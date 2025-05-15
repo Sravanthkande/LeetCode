@@ -1,6 +1,7 @@
 import math
 
 class Solution:
+    #Helper function to return sum of nums with divisor
     def getSum(self, nums, d):
         sum = 0
         for num in nums:
@@ -9,6 +10,7 @@ class Solution:
 
     def smallestDivisor(self, nums: List[int], threshold: int) -> int:
         N = len(nums)
+        #Edge Case
         if N > threshold:
             return -1
         
