@@ -16,6 +16,7 @@ class Solution:
         N, M = len(matrix), len(matrix[0])
 
         for i in range(N):
+            #The matrix is sorted check for the nearest value for target in each row using binary search
             if matrix[i][0] <= target <= matrix[i][M - 1]:
                 return self.binarySearch(matrix[i], target)
         return False
