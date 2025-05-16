@@ -42,6 +42,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sravanthkande/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sravanthkande/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sravanthkande/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -87,6 +88,7 @@
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sravanthkande/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sravanthkande/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sravanthkande/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -168,6 +170,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sravanthkande/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sravanthkande/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sravanthkande/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
