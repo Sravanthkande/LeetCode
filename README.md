@@ -33,6 +33,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sravanthkande/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sravanthkande/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sravanthkande/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sravanthkande/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/Sravanthkande/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -134,6 +135,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sravanthkande/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sravanthkande/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sravanthkande/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sravanthkande/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
