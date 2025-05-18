@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -124,6 +125,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
@@ -152,6 +154,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
