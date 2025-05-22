@@ -5,13 +5,25 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recursive(self, root, arr):
-        if root is None:
-            return
-        self.recursive(root.left, arr)
-        arr.append(root.val)
-        self.recursive(root.right, arr)
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        arr = []
-        self.recursive(root, arr)
-        return arr
+        if root is None:
+            return []
+        inOrder = []
+        cur = root
+
+        while cur is not None:
+            if cur.left is None:
+                inOrder.append(cur.val)
+                cur = cur.right
+            else:
+                prev = cur.left
+                while prev.right and prev.right != cur:
+                    prev = prev.right
+                if prev.right is None:
+                    prev.right = cur
+                    cur = cur.left
+                else:
+                    prev.right = None
+                    inOrder.append(cur.val)
+                    cur = cur.right 
+        return inOrder
