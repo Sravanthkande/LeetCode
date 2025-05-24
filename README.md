@@ -18,6 +18,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Sravanthkande/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,6 +61,7 @@
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravanthkande/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -251,6 +254,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravanthkande/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -357,5 +361,6 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
