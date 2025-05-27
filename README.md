@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sravanthkande/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sravanthkande/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sravanthkande/LeetCode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
@@ -208,6 +209,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sravanthkande/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
