@@ -246,15 +246,18 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sravanthkande/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 ## Counting
 |  |
@@ -283,6 +286,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -319,6 +323,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -372,4 +377,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sravanthkande/LeetCode/tree/master/0046-permutations) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
