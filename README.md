@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sravanthkande/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sravanthkande/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -367,4 +368,8 @@
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Sravanthkande/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
