@@ -32,6 +32,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sravanthkande/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sravanthkande/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Sravanthkande/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -318,6 +319,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -412,4 +416,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sravanthkande/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
