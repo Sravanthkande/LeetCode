@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sravanthkande/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sravanthkande/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -204,6 +205,7 @@
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sravanthkande/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -360,6 +362,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravanthkande/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sravanthkande/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravanthkande/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -378,6 +381,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Sravanthkande/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
