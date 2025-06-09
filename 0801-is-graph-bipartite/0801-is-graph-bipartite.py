@@ -1,18 +1,17 @@
 from collections import deque 
 
 class Solution:
-    def BFS(self, i, adj, color):
-        que = deque()
-        que.append(i)
+    def BFS(self, start, adj, color):
+        q = deque()
+        q.append(start)
+        color[start] = 0
 
-        color[i] = 0
-
-        while que:
-            node = que.popleft()
+        while q:
+            node = q.popleft()
             for neighbor in adj[node]:
                 if color[neighbor] == -1:
                     color[neighbor] = 1 - color[node]
-                    que.append(neighbor)
+                    q.append(neighbor)
                 elif color[neighbor] == color[node]:
                     return False 
         return True 
@@ -26,4 +25,3 @@ class Solution:
                 if not self.BFS(i, graph, color):
                     return False 
         return True
-        
