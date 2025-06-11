@@ -323,6 +323,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravanthkande/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sravanthkande/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -374,6 +375,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravanthkande/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sravanthkande/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravanthkande/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -387,6 +389,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sravanthkande/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sravanthkande/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Sravanthkande/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -451,5 +454,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Sravanthkande/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
