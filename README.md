@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sravanthkande/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sravanthkande/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +111,7 @@
 | [0014-longest-common-prefix](https://github.com/Sravanthkande/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sravanthkande/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sravanthkande/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravanthkande/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -184,6 +187,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
