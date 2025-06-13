@@ -1,22 +1,17 @@
 class Solution:
-    def binarySearch(self, nums, target):
-        left , right = 0, len(nums)-1
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        N, M = len(matrix), len(matrix[0])
+        left, right = 0, (N * M) - 1
 
         while left <= right:
-            mid = (left + right) //2
-            if nums[mid] == target:
-                return True
-            elif nums[mid] < target:
+            mid = (left + right) // 2
+            row, col = mid // M, mid % M
+
+            if matrix[row][col] == target:
+                return True 
+            elif matrix[row][col] < target:
                 left = mid + 1
             else:
                 right = mid - 1
-        return False
-
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        N, M = len(matrix), len(matrix[0])
-
-        for i in range(N):
-            #The matrix is sorted check for the nearest value for target in each row using binary search
-            if matrix[i][0] <= target <= matrix[i][M - 1]:
-                return self.binarySearch(matrix[i], target)
+                
         return False
