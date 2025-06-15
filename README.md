@@ -234,6 +234,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sravanthkande/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sravanthkande/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sravanthkande/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sravanthkande/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -424,6 +425,7 @@
 | [0801-is-graph-bipartite](https://github.com/Sravanthkande/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sravanthkande/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sravanthkande/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -444,6 +446,7 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sravanthkande/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Combinatorics
@@ -492,4 +495,5 @@
 | [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Sravanthkande/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sravanthkande/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
