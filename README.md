@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Sravanthkande/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sravanthkande/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -218,6 +219,7 @@
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -244,6 +246,7 @@
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sravanthkande/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sravanthkande/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sravanthkande/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sravanthkande/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
