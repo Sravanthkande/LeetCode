@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -211,6 +212,7 @@
 | [0016-3sum-closest](https://github.com/Sravanthkande/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
