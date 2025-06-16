@@ -29,6 +29,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sravanthkande/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -375,6 +376,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravanthkande/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sravanthkande/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -431,6 +433,7 @@
 | [0127-word-ladder](https://github.com/Sravanthkande/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravanthkande/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sravanthkande/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
@@ -465,6 +468,7 @@
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Sravanthkande/LeetCode/tree/master/1036-rotting-oranges) |
@@ -514,6 +518,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sravanthkande/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sravanthkande/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sravanthkande/LeetCode/tree/master/1073-number-of-enclaves) |
