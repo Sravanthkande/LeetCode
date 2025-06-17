@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sravanthkande/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sravanthkande/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sravanthkande/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Sravanthkande/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanthkande/LeetCode/tree/master/0817-design-hashmap) |
@@ -205,6 +206,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sravanthkande/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sravanthkande/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
