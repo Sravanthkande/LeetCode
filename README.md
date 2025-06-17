@@ -165,6 +165,7 @@
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Sravanthkande/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sravanthkande/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sravanthkande/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -206,6 +207,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Sravanthkande/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sravanthkande/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sravanthkande/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
