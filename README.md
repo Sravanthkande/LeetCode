@@ -45,6 +45,7 @@
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Sravanthkande/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanthkande/LeetCode/tree/master/0817-design-hashmap) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Sravanthkande/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Sravanthkande/LeetCode/tree/master/1036-rotting-oranges) |
@@ -205,6 +206,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sravanthkande/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Sravanthkande/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sravanthkande/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sravanthkande/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
