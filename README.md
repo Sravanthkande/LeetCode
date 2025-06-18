@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanthkande/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sravanthkande/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -185,6 +186,7 @@
 | [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sravanthkande/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanthkande/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sravanthkande/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sravanthkande/LeetCode/tree/master/0042-trapping-rain-water) |
