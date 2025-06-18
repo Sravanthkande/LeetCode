@@ -88,6 +88,7 @@
 | [0127-word-ladder](https://github.com/Sravanthkande/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sravanthkande/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/Sravanthkande/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanthkande/LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -189,6 +191,7 @@
 | [0075-sort-colors](https://github.com/Sravanthkande/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravanthkande/LeetCode/tree/master/0344-reverse-string) |
