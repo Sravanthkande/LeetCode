@@ -160,6 +160,7 @@
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/Sravanthkande/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanthkande/LeetCode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0908-middle-of-the-linked-list) |
