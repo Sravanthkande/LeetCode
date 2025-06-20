@@ -162,6 +162,7 @@
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/Sravanthkande/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanthkande/LeetCode/tree/master/0817-design-hashmap) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravanthkande/LeetCode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -293,6 +296,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/Sravanthkande/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
