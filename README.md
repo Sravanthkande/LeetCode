@@ -179,6 +179,7 @@
 | [0012-integer-to-roman](https://github.com/Sravanthkande/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sravanthkande/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sravanthkande/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sravanthkande/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sravanthkande/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Sravanthkande/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
