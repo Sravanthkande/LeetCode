@@ -14,10 +14,9 @@ class Solution:
                 if abs(curSum - target) < abs(closeSum - target):
                     closeSum = curSum 
                 
-                if curSum < target:
+                elif curSum < target:
                     left += 1
-                elif curSum > target:
-                    right -= 1
                 else:
-                    return curSum 
+                    right -= 1
+    
         return closeSum
