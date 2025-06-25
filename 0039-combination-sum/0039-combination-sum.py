@@ -1,25 +1,17 @@
 class Solution:
-    def func(self, v, i, sum, v2, ans):
-        #Base Case
-        if sum == 0:
-            ans.append(v2[:])
+    def func(self, candidates, i, target, path, ans):
+        if target == 0:
+            ans.append(path[:])
+            return  
+        
+        if target < 0 or i < 0:
             return 
         
-        #Base check for negative sum or no elements left
-        if sum < 0 or i < 0:
-            return 
-        
-        #exclude the current element and start fromt the next
-        self.func(v, i - 1, sum, v2, ans)
-
-        v2.append(v[i])
-
-        self.func(v, i, sum - v[i], v2, ans)
-
-        v2.pop()
+        self.func(candidates, i -1, target, path, ans)
+        path.append(candidates[i])
+        self.func(candidates, i, target - candidates[i], path, ans)
+        path.pop()
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         ans = []
-
-        v = candidates[:]
-        self.func(v, len(v) -1, target, [], ans)
+        self.func(candidates, len(candidates) -1, target, [], ans)
         return ans
