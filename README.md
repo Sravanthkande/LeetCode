@@ -25,6 +25,7 @@
 | [0057-insert-interval](https://github.com/Sravanthkande/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sravanthkande/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -148,6 +149,7 @@
 | [0038-count-and-say](https://github.com/Sravanthkande/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sravanthkande/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sravanthkande/LeetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Sravanthkande/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
@@ -406,6 +408,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravanthkande/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sravanthkande/LeetCode/tree/master/0100-same-tree) |
@@ -511,6 +514,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sravanthkande/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -554,6 +558,7 @@
 | [0040-combination-sum-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sravanthkande/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sravanthkande/LeetCode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Sravanthkande/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Binary Search Tree
 |  |
