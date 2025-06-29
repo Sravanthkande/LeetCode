@@ -1,38 +1,33 @@
 class Solution(object):
+    # class Solution(object):
+    # def lengthOfLongestSubstring(self, s):
+    #     """
+    #     :type s: str
+    #     :rtype: int
+    #     """
+    #     def unique(sub):
+    #         return len(set(sub)) == len(sub)
+        
+    #     maxLen = 0
+    #     for i in range(len(s)):
+    #         for j in range(i + 1, len(s) + 1):
+    #             if unique(s[i:j]):
+    #                 maxLen = max(maxLen,j - i)
+    #     return maxLen this is the brute force approach using tc- O(n^3) and sc -O (n)
     def lengthOfLongestSubstring(self, s):
         """
         :type s: str
         :rtype: int
         """
-        N = len(s)
-        
-        #Assuming all ASCII Characters
-        hashLen = 256
+        start, maxLen = 0, 0
+        seen = {}
 
-        #HashTable to store last occurance of each char
-        hash = [-1] * hashLen
-
-        #Initialize hash table with -1
-        for i in range(hashLen):
-            hash[i] = -1
-
-        left, right, maxLen = 0, 0, 0
-        while right < N :
-            #if current char s[right] is already in the substring
-            if hash[ord(s[right])] != -1:
-                #move left pointer to the right
-                left = max(hash[ord(s[right])] + 1, left)
-            #calculate the current length
-            current_len = right - left + 1
-
-            #update maxlen found so far
-            maxLen = max(maxLen, current_len)
-
-            #Store index of the current char in the hash table
-            hash[ord(s[right])] = right
-
-            #move right pointer to next position
-            right+= 1
-        #return maxLen
+        for i, char in enumerate(s):
+            if char in seen and start <= seen[char]:
+                start = seen[char] + 1
+            else:
+                maxLen = max(maxLen, i- start + 1)
+            
+            seen[char] = i
         return maxLen
-        
+        #Optimal approach using TC-O(N) and SC-O(min(n, m))
