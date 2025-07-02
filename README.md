@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sravanthkande/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sravanthkande/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
@@ -216,6 +217,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sravanthkande/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sravanthkande/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sravanthkande/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sravanthkande/LeetCode/tree/master/0018-4sum) |
@@ -341,6 +343,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sravanthkande/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Sravanthkande/LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sravanthkande/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
