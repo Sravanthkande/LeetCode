@@ -1,36 +1,49 @@
 class Solution(object):
+    # def threeSum(self, nums):
+    #     """
+    #     :type nums: List[int]
+    #     :rtype: List[List[int]]
+    #     """
+    #     res = set()
+    #     N = len(nums)
+    #     nums.sort()
+
+    #     for i in range(N):
+    #         for j in range(i + 1, N):
+    #             for k in range(j + 1, N):
+    #                 if nums[i] + nums[j] + nums[k] == 0:
+    #                     temp = [nums[i], nums[j], nums[k]]
+    #                     res.add(tuple(temp))
+                    
+    #     return [list(i) for i in res]
+    
     def threeSum(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        ans = []
         N = len(nums)
-
         nums.sort()
+        res = []
+
         for i in range(N):
-            if (i >0 and nums[i] == nums[i-1]):
-                continue 
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
             
-            j = i + 1
-            k = N - 1
+            l, r = i + 1, N - 1
 
-            while j < k:
-                sum = nums[i] + nums[j] + nums[k]
-
-                if sum < 0:
-                    j += 1
-                elif sum > 0:
-                    k -= 1
+            while l < r:
+                curSum = nums[i] + nums[l] + nums[r]
+                if curSum < 0:
+                    l += 1
+                elif curSum > 0:
+                    r -= 1
                 else:
-                    temp = [nums[i], nums[j], nums[k]]
-                    ans.append(temp)
-
-                    j += 1
-                    k -= 1
-
-                    while j < k and nums[j] == nums[j-1]:
-                        j += 1
-                    while j < k and nums[k] == nums[k+1]:
-                        k -= 1
-        return ans
+                    res.append([nums[i], nums[l], nums[r]])
+                    l += 1
+                    r -= 1
+                   
+                    while nums[l] == nums[l -1] and l < r:
+                        l += 1
+                    
+        return res
