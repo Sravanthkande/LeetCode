@@ -1,7 +1,7 @@
 class Solution:
     def __init__(self):
         self.map = ["", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
-    
+
     def func(self, digits, ans, index, cur):
         if index == len(digits):
             ans.append(cur)
@@ -10,12 +10,12 @@ class Solution:
         s = self.map[int(digits[index])]
 
         for char in s:
-            self.func(digits, ans, index +1, cur + char)
-        
+            self.func(digits, ans, index + 1, cur + char)
+
     def letterCombinations(self, digits: str) -> List[str]:
-        ans = []
+        res = []
         if not digits:
-            return ans 
+            return res 
         
-        self.func(digits, ans, 0, "")
-        return ans
+        self.func(digits, res, 0, "")
+        return res 
