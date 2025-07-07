@@ -60,6 +60,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sravanthkande/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sravanthkande/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Sravanthkande/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sravanthkande/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sravanthkande/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -206,6 +207,7 @@
 | [0189-rotate-array](https://github.com/Sravanthkande/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Sravanthkande/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sravanthkande/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sravanthkande/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sravanthkande/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -283,6 +285,7 @@
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sravanthkande/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sravanthkande/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sravanthkande/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -378,6 +381,7 @@
 | [0744-network-delay-time](https://github.com/Sravanthkande/LeetCode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sravanthkande/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1753-path-with-minimum-effort](https://github.com/Sravanthkande/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sravanthkande/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sravanthkande/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -582,6 +586,7 @@
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -636,6 +641,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -644,4 +650,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Sravanthkande/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
