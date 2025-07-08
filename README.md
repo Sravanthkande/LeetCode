@@ -26,6 +26,7 @@
 | [0056-merge-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sravanthkande/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sravanthkande/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
@@ -314,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/Sravanthkande/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sravanthkande/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0213-house-robber-ii) |
@@ -548,6 +550,7 @@
 | [0036-valid-sudoku](https://github.com/Sravanthkande/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sravanthkande/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sravanthkande/LeetCode/tree/master/0130-surrounded-regions) |
