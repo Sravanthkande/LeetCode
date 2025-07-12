@@ -12,15 +12,12 @@ class Solution:
     #     return maxP
     def maxProfit(self, prices: List[int]) -> int:
         N = len(prices)
-        left, right = 0, 1
         maxP = 0
+        buy = prices[0]
 
-        while right < N:
-            if prices[right] > prices[left]:
-                profit = prices[right] - prices[left]
-                maxP = max(maxP, profit)
-            else:
-                left = right 
-            right += 1
+        for i in range(1, N):
+            profit = prices[i] - buy
+            maxP = max(maxP, profit)
+            buy = min(buy, prices[i])
         
         return maxP
