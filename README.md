@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanthkande/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sravanthkande/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sravanthkande/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -327,6 +328,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sravanthkande/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
