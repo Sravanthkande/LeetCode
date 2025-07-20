@@ -1,24 +1,27 @@
-from collections import deque
+# from collections import deque
 
 class Solution:
-    def bfs(self, node, adjLs, vis):
-        vis[node] = 1
-        q = deque()
-        q.append(node)
+    # def BFS(self, start, adjLs, vis):
+    #     vis[start] = True 
 
-        while q:
-            i = q.popleft()
-            for adjNodes in adjLs[i]:
-                if vis[adjNodes] != 1:
-                    vis[adjNodes] = 1
-                    q.append(adjNodes)
-    def dfs(self, node, adjLs, vis):
-        vis[node] = 1
+    #     que = deque()
+    #     que.append(start)
 
-        for it in adjLs[node]:
-            if not vis[it]:
-                self.dfs(it, adjLs, vis)
+    #     while que:
+    #         node = que.popleft()
 
+    #         for an in adjLs[node]:
+    #             if not vis[an]:
+    #                 vis[an] = True
+    #                 que.append(an)
+                
+    def DFS(self, start, adjLs, vis):
+        vis[start] = True
+
+        for an in adjLs[start]:
+            if not vis[an]:
+                self.DFS(an, adjLs, vis)
+                
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         V = len(isConnected)
 
@@ -29,13 +32,13 @@ class Solution:
                 if isConnected[i][j] == 1 and i != j:
                     adjLs[i].append(j)
                     adjLs[j].append(i)
-                
-        vis = [0] * V
+
+        vis = [False] * V 
         count = 0
 
         for i in range(V):
-            if vis[i] == 0:
+            if not vis[i]:
                 count += 1
-                self.bfs(i, adjLs, vis)
+                self.DFS(i, adjLs, vis)
+            
         return count
-        
