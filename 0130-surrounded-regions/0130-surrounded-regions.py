@@ -67,4 +67,4 @@ class Solution:
                     not vis[i][j]
                 ):
                     board[i][j] = 'X'
-        return board
+        
