@@ -11,18 +11,17 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+        HashSet<ListNode> visited = new HashSet<>();
+        ListNode cur = head;
 
-        while(slow != null && fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-
-            if(slow == fast){
+        while(cur != null){
+            if(visited.contains(cur)){
                 return true;
             }
-        }
 
+            visited.add(cur);
+            cur = cur.next;
+        }
         return false;
     }
 }
