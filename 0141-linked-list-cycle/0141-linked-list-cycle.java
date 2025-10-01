@@ -10,18 +10,34 @@
  * }
  */
 public class Solution {
-    public boolean hasCycle(ListNode head) {
-        HashSet<ListNode> visited = new HashSet<>();
-        ListNode cur = head;
+    // public boolean hasCycle(ListNode head) {
+    //     HashSet<ListNode> visited = new HashSet<>();
+    //     ListNode cur = head;
 
-        while(cur != null){
-            if(visited.contains(cur)){
+    //     while(cur != null){
+    //         if(visited.contains(cur)){
+    //             return true;
+    //         }
+
+    //         visited.add(cur);
+    //         cur = cur.next;
+    //     }
+    //     return false;
+    // }
+
+    public boolean hasCycle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(slow != null && fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast){
                 return true;
             }
-
-            visited.add(cur);
-            cur = cur.next;
         }
+
         return false;
     }
 }
