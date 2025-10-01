@@ -32,6 +32,7 @@
 | [0079-word-search](https://github.com/Sravanthkande/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sravanthkande/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sravanthkande/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sravanthkande/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -252,6 +253,7 @@
 | [0075-sort-colors](https://github.com/Sravanthkande/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sravanthkande/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sravanthkande/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanthkande/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -298,6 +300,7 @@
 | [0049-group-anagrams](https://github.com/Sravanthkande/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sravanthkande/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sravanthkande/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sravanthkande/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sravanthkande/LeetCode/tree/master/0268-missing-number) |
