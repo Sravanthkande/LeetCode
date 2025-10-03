@@ -175,6 +175,7 @@
 | [0344-reverse-string](https://github.com/Sravanthkande/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sravanthkande/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sravanthkande/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sravanthkande/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sravanthkande/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sravanthkande/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -263,6 +264,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sravanthkande/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sravanthkande/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravanthkande/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Sravanthkande/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravanthkande/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Sravanthkande/LeetCode/tree/master/0868-push-dominoes) |
@@ -345,6 +347,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/Sravanthkande/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Sravanthkande/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Sravanthkande/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sravanthkande/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanthkande/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Sravanthkande/LeetCode/tree/master/0542-01-matrix) |
